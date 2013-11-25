@@ -39,3 +39,4 @@
    - State "TODO"       from ""           [2013-11-25 Mon 09:40]
    - 在mac 上更新开发版
    - this line is added at linux.
+   - using patch 
