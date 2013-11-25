@@ -11,8 +11,10 @@
    - 把develop分支放在远程
      - git push
      - git push origin develop
-      * [new branch] develop->develop
-
+       * [new branch] develop->develop
+   - 创建分支并切到它上面 ()
+     - git branch some-branch ; git checkout some-branch
+     - git checkout -b some-branch
 ** DONE 在develop分支增加新功能
    - State "DONE"       from "TODO"       [2013-11-25 Mon 09:20] \\
      done
