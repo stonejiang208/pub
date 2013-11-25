@@ -1,10 +1,12 @@
 * 计划
 
-** 学会在本地上建分支，并把它放在远程服务器上
+** TODO 学会在本地上建分支，并把它放在远程服务器上
+   - State "TODO"       from ""           [2013-11-25 Mon 08:42]
   - 在本地创建一个develop分支
   - 把develop分支放在远程
-
-** 在develop分支增加新功能
+** TODO 在develop分支增加新功能
+   - State "TODO"       from ""           [2013-11-25 Mon 08:42]
 *** 
-** 把在develop分支的修改合并到master分支
+** TODO 把在develop分支的修改合并到master分支
+   - State "TODO"       from ""           [2013-11-25 Mon 08:42]
 
