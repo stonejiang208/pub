@@ -8,11 +8,11 @@
    - 把develop分支放在远程
      - git push
      - git push origin develop
-      * [new branch] develop->developgi
+      * [new branch] develop->develop
 
 ** TODO 在develop分支增加新功能
    - State "TODO"       from ""           [2013-11-25 Mon 08:42]
-*** 
+*** 复制develop分支到hotfix
 ** TODO 把在develop分支的修改合并到master分支
    - State "TODO"       from ""           [2013-11-25 Mon 08:42]
 
