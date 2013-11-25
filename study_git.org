@@ -12,7 +12,9 @@
      - git push origin develop
       * [new branch] develop->develop
 
-** TODO 在develop分支增加新功能
+** DONE 在develop分支增加新功能
+   - State "DONE"       from "TODO"       [2013-11-25 Mon 09:20] \\
+     done
    - State "TODO"       from ""           [2013-11-25 Mon 08:42]
 *** 复制develop分支到hotfix_1
    - git branch hotfix_1
@@ -21,4 +23,6 @@
 
 ** TODO 把在develop分支的修改合并到master分支
    - State "TODO"       from ""           [2013-11-25 Mon 08:42]
+   - 制造一个冲突
 
+** 学习如何解决冲突
