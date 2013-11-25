@@ -7,7 +7,8 @@
      - this line is only in develop branch, not in master.
    - 把develop分支放在远程
      - git push
-     - git push origin master
+     - git push origin develop
+      * [new branch] develop->developgi
 
 ** TODO 在develop分支增加新功能
    - State "TODO"       from ""           [2013-11-25 Mon 08:42]
