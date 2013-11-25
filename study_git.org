@@ -19,6 +19,7 @@
    - git checkout hotfix_1
    - git push origin hotfix_1
 
-** TODO 把在develop分支的修改合并到master分支
+** TODO 把在hotfix_1分支的修改合并到develop分支
    - State "TODO"       from ""           [2013-11-25 Mon 08:42]
-
+   - git checkout develop
+   - git merge hotfix_1
