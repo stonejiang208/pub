@@ -1,6 +1,8 @@
 * 计划
 
-** TODO 学会在本地上建分支，并把它放在远程服务器上
+** DONE 学会在本地上建分支，并把它放在远程服务器上
+   - State "DONE"       from "TODO"       [2013-11-25 Mon 09:07] \\
+     搞定
    - State "TODO"       from ""           [2013-11-25 Mon 08:42]
    - 在本地创建一个develop分支
      - git branch develop
@@ -12,7 +14,11 @@
 
 ** TODO 在develop分支增加新功能
    - State "TODO"       from ""           [2013-11-25 Mon 08:42]
-*** 复制develop分支到hotfix
+*** 复制develop分支到hotfix_1
+   - git branch hotfix_1
+   - git checkout hotfix_1
+   - git push origin hotfix_1
+
 ** TODO 把在develop分支的修改合并到master分支
    - State "TODO"       from ""           [2013-11-25 Mon 08:42]
 
