@@ -22,11 +22,19 @@
    - git checkout hotfix_1
    - git push origin hotfix_1
 
-** TODO 把在hotfix_1分支的修改合并到develop分支
+** DONE 把在hotfix_1分支的修改合并到develop分支
+   - State "DONE"       from "TODO"       [2013-11-25 Mon 09:40] \\
+     done
    - State "TODO"       from ""           [2013-11-25 Mon 08:42]
    - git checkout develop
    - git merge hotfix_1
    - 制造一个冲突
 
-** 学习如何解决冲突
+** DONE 学习如何解决冲突
+   - State "DONE"       from ""           [2013-11-25 Mon 09:40] \\
+     done
    -  hotfix_1
+
+** TODO 两台机器练习git
+   - State "TODO"       from ""           [2013-11-25 Mon 09:40]
+   - 在mac 上更新开发版
